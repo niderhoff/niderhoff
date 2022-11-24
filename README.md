@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nicolas Iderhoff and I work as an Architect for Software which contains AI
+- 👋 Hi, I’m Nicolas Iderhoff and I work as a Solution Architect for Software which contains AI
 - 👀 I’m interested in Data Management, Machine Learning, Computer Vision, Automation and DevOps
 - 🌱 I’m currently learning to build an end-to-end MLOps Pipeline (from Labeling to Edge-Device Deployment)
 - 💞️ I’m looking to collaborate on all things regarding Dataset & Model Management
